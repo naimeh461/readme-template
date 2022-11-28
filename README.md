@@ -80,9 +80,9 @@ console.log("hello");
 
 ## Task List
 ---
--[x] Task1  
--[x] Task2  
--[ ] Task3
+- [x] Task1  
+- [x] Task2  
+- [ ] Task3
 
 </br>
 
@@ -109,7 +109,7 @@ http://www.studywitme.com
 
 ## image sytax
 ---
-<img src="./image/me.JPG" width="300" title="profile image"/>
+<img src="./image/me.jpg" width="300" title="profile image"/>
 
 </br>
 
